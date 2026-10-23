@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ryan-manchanda"><img src="https://img.shields.io/badge/LINKEDIN-Connect-D6AD60?style=for-the-badge&logo=linkedin&logoColor=0D0B08" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ryan-manchanda-tech"><img src="https://img.shields.io/badge/LINKEDIN-Connect-D6AD60?style=for-the-badge&logo=linkedin&logoColor=0D0B08" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ryaanmanchanda01"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-D6AD60?style=for-the-badge&logo=instagram&logoColor=0D0B08" alt="Instagram" /></a>
   <a href="mailto:ryaanmanchanda2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-D6AD60?style=for-the-badge&logo=gmail&logoColor=0D0B08" alt="Email" /></a>
 </p>
